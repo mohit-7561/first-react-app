@@ -1,0 +1,12 @@
+.foodContainer{
+  background-color: cornflowerblue;
+}
+
+.foodItem{
+  font-weight: 400;
+
+}
+
+.buyButton{
+  float: right;
+}
